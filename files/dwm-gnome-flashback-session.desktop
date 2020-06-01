@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=GNOME Flashback (dwm)
+Comment=This session logs you into GNOME Flashback with dwm
+Exec=dwm-gnome-flashback-session
+TryExec=dwm
+Type=Application
+DesktopNames=GNOME-Flashback;GNOME;
