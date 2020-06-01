@@ -2,7 +2,7 @@
 
 Allows you to use DWM in a GNOME-Flashback session. This repository is a DWM equivalent of the existing [`i3-gnome`](https://github.com/lvillani/i3-gnome) project.
 
-This has been tested working on GNOME version **3.36
+This has been tested working on GNOME version 3.36
 
 # Installation
 
@@ -10,7 +10,7 @@ For Ubuntu (19.10), ensure prerequisites are installed:
 ```
 sudo apt install DWM gnome-flashback build-essential
 ```
-Then install DWM-gnome-flashback:
+Then install dwm-gnome:
 ```
 sudo make install
 ```
